@@ -1,0 +1,7 @@
+.categoryCard {
+  @apply rounded-md transition-all ease-in-out border-2 border-gray-300/80 flex flex-col flex-shrink overflow-hidden shadow-md;
+}
+
+.categoryDesc {
+  @apply duration-700 flex flex-col items-center px-5 py-4;
+}
